@@ -9,7 +9,9 @@ Samadhan is a Made in India chat application.
 - Hindi & English support
 
 ## Download
-APK will be provided soon.
+## Download
+👉 [Click here to download Samadhan App APK](https://drive.google.com/PASTE_YOUR_APK_LINK)
+
 
 ## Founder
 Lokpalsingh Raja  
